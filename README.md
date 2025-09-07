@@ -1,2 +1,2 @@
-# assistant-kiro
+# Assistant-kiro
 The voice assistant with help of livkit
